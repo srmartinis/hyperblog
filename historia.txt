@@ -1,11 +1,3 @@
-Hola soy Martin tengo 36 años
+1.Hola soy Martin
 
-Trabajo en CATA hace 13 años
-
-Estoy casado y soy Testigo de Jehova
-
-Chau
-
-Paresco gordo pero soy flaco
-
-Hoy estoy estudiando en Platzi
+1.Trabajo en CATA
