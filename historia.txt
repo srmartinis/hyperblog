@@ -2,6 +2,8 @@
 
 1.Hola soy Martin
 
+4.No tengo plata
+
 2.Vivo en Lujan
 
 3.Estoy aprendiendo
@@ -9,5 +11,7 @@
 1.Trabajo en CATA
 
 2.Soy Chofer de micro
+
+4.Soy Testigo de Jehova
 
 3.Falta menos
