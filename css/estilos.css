@@ -47,5 +47,16 @@ body
 #post
 {
     padding: 1em;
+<<<<<<< HEAD
     background-color: beige;
+=======
+}
+#footer
+{
+    background: #e70c0c;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    
+>>>>>>> footer
 }
